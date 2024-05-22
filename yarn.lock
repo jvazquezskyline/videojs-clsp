@@ -1020,10 +1020,10 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@skylineos/clsp-player@^0.23.3":
-  version "0.23.3"
-  resolved "https://registry.yarnpkg.com/@skylineos/clsp-player/-/clsp-player-0.23.3.tgz#63ae2a125584dac3f68f63dd1a588636bc367674"
-  integrity sha512-vmVXFJ+tBEM7Dj/x9GsiI3650jThB+8quFjzK218sSgdY7R3qB8XeW/gAHx0VQigLak/Nc5YlACWPwn4NU3IZQ==
+"@skylineos/clsp-player@0.23.4":
+  version "0.23.4"
+  resolved "https://registry.yarnpkg.com/@skylineos/clsp-player/-/clsp-player-0.23.4.tgz#996e22d51f320eca5cc91dc24914bb1cc6470cb9"
+  integrity sha512-14SvH4jERAcT93RWUCzBJLXerytulgv6vz76pqJWRrazoYKpnGWzGihtg3FhgglI85ZqcLnLDcCErNxOdWVV9Q==
   dependencies:
     "@babel/runtime-corejs3" "7.11.2"
     eventemitter3 "4.0.7"
